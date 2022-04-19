@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "name": "offset",
+      "description": "фиолетовая футболка",
+      "price": 1550,
+      "image": "https://www.versace.ru/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw606b3b48/original/90_E72GAHP09-ECJWBP_E302_10_EtichettaPatchT-Shirt-T-shirtsandPolos-versace-online-store_0_0.jpg?sw=450&sh=632&sm=fit&sfrm=jpg",
+      "color": "white",
+      "size": "l",
+      "id": 1
+    },
+    {
+      "name": "offset",
+      "description": "фиолетовая футболка",
+      "price": 1550,
+      "image": "https://vse-footbolki.ru/image/cache/catalog/vsm/0/0/105/105481/previews/people_4_manshort_front_lavender_700-280x280.jpg",
+      "color": "white",
+      "size": "xxl",
+      "id": 2
+    },
+    {
+      "name": "offBlack",
+      "description": "белая классная футболка",
+      "price": 1250,
+      "image": "https://www.studio-fashion.com/image/cache/data/2020-01/belaya-futbolka-s-printom-smile-43874-2000x2000.jpg",
+      "color": "white",
+      "size": "l",
+      "id": 3
+    },
+    {
+      "name": "butterflys",
+      "description": "белая футболка с узором бабочек",
+      "price": 1990,
+      "image": "https://www.studio-fashion.com/image/cache/data/2020-03/belaya-futbolka-s-printom-babochki-44579-2000x2000.jpg",
+      "color": "white",
+      "size": "s",
+      "id": 4
+    },
+    {
+      "name": "offWhit",
+      "description": "черная футболка",
+      "price": 990,
+      "image": "https://storage.vsemayki.ru/images/0/1/1938/1938947/previews/people_7_manshort_front_black_250.jpg",
+      "color": "black",
+      "size": "l",
+      "id": 5
+    },
+    {
+      "name": "offset",
+      "description": "фиолетовая футболка",
+      "price": 1550,
+      "image": "https://www.versace.ru/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw606b3b48/original/90_E72GAHP09-ECJWBP_E302_10_EtichettaPatchT-Shirt-T-shirtsandPolos-versace-online-store_0_0.jpg?sw=450&sh=632&sm=fit&sfrm=jpg",
+      "color": "white",
+      "size": "l",
+      "id": 1
+    },
+    {
+      "name": "offset",
+      "description": "фиолетовая футболка",
+      "price": 1550,
+      "image": "https://vse-footbolki.ru/image/cache/catalog/vsm/0/0/105/105481/previews/people_4_manshort_front_lavender_700-280x280.jpg",
+      "color": "white",
+      "size": "xxl",
+      "id": 2
+    },
+    {
+      "name": "offBlack",
+      "description": "белая классная футболка",
+      "price": 1250,
+      "image": "https://www.studio-fashion.com/image/cache/data/2020-01/belaya-futbolka-s-printom-smile-43874-2000x2000.jpg",
+      "color": "white",
+      "size": "l",
+      "id": 3
+    },
+    {
+      "name": "butterflys",
+      "description": "белая футболка с узором бабочек",
+      "price": 1990,
+      "image": "https://www.studio-fashion.com/image/cache/data/2020-03/belaya-futbolka-s-printom-babochki-44579-2000x2000.jpg",
+      "color": "white",
+      "size": "s",
+      "id": 4
+    },
+    {
+      "name": "offWhit",
+      "description": "черная футболка",
+      "price": 990,
+      "image": "https://storage.vsemayki.ru/images/0/1/1938/1938947/previews/people_7_manshort_front_black_250.jpg",
+      "color": "black",
+      "size": "l",
+      "id": 5
+    },
+    {
+      "name": "offset",
+      "description": "фиолетовая футболка",
+      "price": 1550,
+      "image": "https://www.versace.ru/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw606b3b48/original/90_E72GAHP09-ECJWBP_E302_10_EtichettaPatchT-Shirt-T-shirtsandPolos-versace-online-store_0_0.jpg?sw=450&sh=632&sm=fit&sfrm=jpg",
+      "color": "white",
+      "size": "l",
+      "id": 10
+    },
+    {
+      "name": "offset",
+      "description": "фиолетовая футболка",
+      "price": 1550,
+      "image": "https://vse-footbolki.ru/image/cache/catalog/vsm/0/0/105/105481/previews/people_4_manshort_front_lavender_700-280x280.jpg",
+      "color": "white",
+      "size": "xxl",
+      "id": 20
+    },
+    {
+      "name": "offBlack",
+      "description": "белая классная футболка",
+      "price": 1250,
+      "image": "https://www.studio-fashion.com/image/cache/data/2020-01/belaya-futbolka-s-printom-smile-43874-2000x2000.jpg",
+      "color": "white",
+      "size": "l",
+      "id": 30
+    },
+    {
+      "name": "butterflys",
+      "description": "белая футболка с узором бабочек",
+      "price": 1990,
+      "image": "https://www.studio-fashion.com/image/cache/data/2020-03/belaya-futbolka-s-printom-babochki-44579-2000x2000.jpg",
+      "color": "white",
+      "size": "s",
+      "id": 40
+    },
+    {
+      "name": "offWhit",
+      "description": "черная футболка",
+      "price": 990,
+      "image": "https://storage.vsemayki.ru/images/0/1/1938/1938947/previews/people_7_manshort_front_black_250.jpg",
+      "color": "black",
+      "size": "l",
+      "id": 50
+    }
+  ]
+}
